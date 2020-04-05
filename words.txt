@@ -1,0 +1,6 @@
+gelmek|1
+zor|2
+sanırım|2
+evet|1
+geldik|1
+haklısınız|1
